@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Generator RPM",
+  "description": "Generator Perencanaan Pembelajaran Mendalam (RPM) untuk semua jenjang dan mata pelajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
